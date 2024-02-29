@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/ntduchy/static/css/main.fc13db25.css",
+    "main.js": "/ntduchy/static/js/main.57eae581.js",
+    "static/js/592.40e3b3b6.chunk.js": "/ntduchy/static/js/592.40e3b3b6.chunk.js",
+    "static/media/bgwater.png": "/ntduchy/static/media/bgwater.f865f1e180cc8e38c4d1.png",
+    "static/media/tileWoods.png": "/ntduchy/static/media/tileWoods.d63610377d21e8d4d5fe.png",
+    "static/media/tileHills.png": "/ntduchy/static/media/tileHills.c26b1d7496fd32473b0b.png",
+    "static/media/tileKeep.png": "/ntduchy/static/media/tileKeep.8ba0e11d64f915ce8e35.png",
+    "static/media/tileeKeep.png": "/ntduchy/static/media/tileeKeep.bf4373f94f578aafeeff.png",
+    "static/media/tileFarm.png": "/ntduchy/static/media/tileFarm.ca9aacf485a877e51792.png",
+    "static/media/tileGrassland.png": "/ntduchy/static/media/tileGrassland.86d720277b5a439b9711.png",
+    "static/media/tileMountain.png": "/ntduchy/static/media/tileMountain.fbf484fb0f1531462e59.png",
+    "static/media/tilePlains.png": "/ntduchy/static/media/tilePlains.e9fe7addb01609ef33f8.png",
+    "static/media/btnWork.png": "/ntduchy/static/media/btnWork.2f77e294f2f089e2b508.png",
+    "static/media/btnHouse.png": "/ntduchy/static/media/btnHouse.b3af3546dfe6a0980078.png",
+    "static/media/btnSoldier.png": "/ntduchy/static/media/btnSoldier.6a1e3af7e6b11ea1d07c.png",
+    "static/media/btnMove.png": "/ntduchy/static/media/btnMove.a15f307b4b431e90fa65.png",
+    "static/media/btnImprove.png": "/ntduchy/static/media/btnImprove.e3013acf4f5e4227fcd5.png",
+    "static/media/logo.svg": "/ntduchy/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/ntduchy/index.html",
+    "main.fc13db25.css.map": "/ntduchy/static/css/main.fc13db25.css.map",
+    "main.57eae581.js.map": "/ntduchy/static/js/main.57eae581.js.map",
+    "592.40e3b3b6.chunk.js.map": "/ntduchy/static/js/592.40e3b3b6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc13db25.css",
+    "static/js/main.57eae581.js"
+  ]
+}
